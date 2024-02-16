@@ -125,6 +125,23 @@ El proyecto se enfoca en proporcionar una solución integral para la detección 
         </div>
       </div>
     </td>
+      <td align='center'>
+      <div>
+        <a href="https://github.com/MayraSierraAT" target="_blank" rel="author">
+          <img width="120" src="https://avatars.githubusercontent.com/u/123905946?v=4"/>
+        </a>
+        <div>
+          <a href="https://github.com/MayraSierraAT" target="_blank" rel="author">
+            <h4>Diego Sanabria</br><small>Data Scientist</small></h4>
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/MayraSierraAT" target="_blank">
+            <img style='width:6rem' src="https://github.com/Briantahiel/Fintech/assets/72633519/fdbb64fe-676d-4c83-965f-11835c532333"/>
+          </a>
+        </div>
+      </div>
+    </td>
   </tr>
 </table>
 
